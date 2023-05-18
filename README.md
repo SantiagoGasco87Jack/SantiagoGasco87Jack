@@ -21,7 +21,7 @@ hi, i'm [Santiago Gasco](https://santiago.me/), a passionate self-taught full st
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/SantiagoGasco87Jack/SantiagoGasco87Jack/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/SantiagoGasco87Jack/SantiagoGasco87Jack/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:devsantiago87@gamil.com) :)
 - 💬 ask me about anything, i am happy to help;
